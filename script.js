@@ -7,5 +7,5 @@ yesBtn.addEventListener('click', function() {
 });
 
 noBtn.addEventListener('click', function() {
-  message.innerHTML = 'I understand, and I respect your decision. I hope we can remain good friends and continue to share our lives together. Thank you for everything, Roger.';
+  message.innerHTML = ':'(.';
 });

@@ -7,5 +7,5 @@ yesBtn.addEventListener('click', function() {
 });
 
 noBtn.addEventListener('click', function() {
-  message.innerHTML = ':'(.';
+  message.innerHTML = 'cries in spanish.';
 });
